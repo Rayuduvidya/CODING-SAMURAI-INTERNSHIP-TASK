@@ -1,2 +1,18 @@
-# CODING-SAMURAI-INTERNSHIP-TASK
-Coding Samurai Internship Tasks – Web Development Projects including Personal Portfolio Website, Responsive Landing Page, and To-Do List Application built using HTML, CSS, and JavaScript.
+# CODING SAMURAI INTERNSHIP TASK
+
+## Task 1 - Personal Portfolio Website
+Built using HTML, CSS and JavaScript.
+
+## Task 2 - Responsive Landing Page
+Built using HTML, CSS and Responsive CSS.
+
+## Task 3 - To-Do List Application
+Built using HTML, CSS and JavaScript.
+
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+### Author
+Vidyasree Rayudu
